@@ -3,7 +3,7 @@
 <i class="fa fa-phone fa-lg"></i> (+34) 616727518  
 <i class="fa fa-laptop fa-lg"></i> [davidllanos22.github.com](davidllanos22.github.com)  
 <i class="fa fa-home fa-lg"></i> Via Júlia 160 sobreático 08016 Barcelona, España  
-<i class="fa fa-calendar fa-lg"></i> 23 years, 22-08-1992  
+<i class="fa fa-calendar fa-lg"></i> 22-08-1992, 23 years  
 <i class="fa fa-globe fa-lg"></i> Spanish  
 
 ######**EDUCATION**

@@ -28,12 +28,11 @@ October 2012 - April 2013 | SEE THE SAME SL | Barcelona, Spain [letssyncro.com](
 My responsibilities included creating both an ***Android*** and ***iOS*** app with login/register and push notifications. I also made part of the API in the backend to be consumed by the apps.
 
 ######**TECHNICAL SKILLS**
+* WEB
+  * FRONT
+  * BACK
+* GAMES
 
-WEB
-  -FRONT
-  -BACK
-GAMES
-   
 ######**PROJECT EXPERIENCE**
 
 ######**LANGUAGES**

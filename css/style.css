@@ -4,3 +4,15 @@ body{
 .text-center{
 	text-align: center;
 }
+
+p, table, ul{
+	margin-left: 20px;
+}
+
+li > p{
+	margin-left: 0;
+}
+
+i{
+	margin-right: 10px;
+}

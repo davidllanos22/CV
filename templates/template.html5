@@ -1,27 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html$if(lang)$ lang="$lang$"$endif$>
   <head>
     <meta charset="utf-8">
     <meta name="generator" content="pandoc">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>David Llanos López</title>
-    <meta name="author" content="David Llanos López">
+    <title>$title$</title>
+    <meta name="author" content="$author$">
     <style type="text/css">code{white-space: pre;}</style>
     <link rel="icon" type="image/png" href="img/favicon.ico">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/skeleton.css">
     <link rel="stylesheet" href="css/style.css">
-      </head>
+    $if(highlighting-css)$
+      <style type="text/css">
+        $highlighting-css$
+      </style>
+    $endif$
+  </head>
   <body>
     <div class="container">
       <div class="row">
         <div class="twelve column">
-                    <h4>David Llanos López</h4>
-          <h5>Programmer</h5>
+          $for(include-before)$
+            $include-before$
+          $endfor$
+          <h4>$title$</h4>
+          <h5>$subtitle$</h5>
           <hr/>
-          <h6 id="información-personal"><strong>INFORMACIÓN PERSONAL</strong></h6>
-          <p>Via Júlia 160 sobreático 08016 Barcelona, España</p>
-                  </div>
+          $body$
+          $for(include-after)$
+            $include-after$
+          $endfor$
+        </div>
       </div>
     </div>
   </body>

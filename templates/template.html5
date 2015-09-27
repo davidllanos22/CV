@@ -10,6 +10,7 @@
     <link rel="icon" type="image/png" href="img/favicon.ico">
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
     $if(highlighting-css)$
       <style type="text/css">
@@ -24,8 +25,8 @@
           $for(include-before)$
             $include-before$
           $endfor$
-          <h4>$title$</h4>
-          <h5>$subtitle$</h5>
+          <h4 class="text-center">$title$</h4>
+          <h5 class="text-center">$subtitle$</h5>
           <hr/>
           $body$
           $for(include-after)$

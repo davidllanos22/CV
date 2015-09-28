@@ -1,6 +1,23 @@
 body{
 	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size:14px;
 }
+h4,h5,ul,li,h6,p{
+	margin-bottom: 0px;
+}
+.column>ul:first-of-type{
+	//text-align: center;
+  	list-style: none;
+}
+.column>ul:first-of-type > li{
+  	display: inline;
+  	margin-left: 10px;
+}
+
+hr{
+	margin: 10px 0;
+}
+
 .text-center{
 	text-align: center;
 }

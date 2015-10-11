@@ -24,14 +24,12 @@ October 2012 - April 2013 | SEE THE SAME SL | Barcelona, Spain <a href="http://l
 My responsibilities included creating both an ***Android*** and ***iOS*** app with login/register and push notifications. I also made part of the API in the back end to be consumed by the apps.
 
 ######**TECHNOLOGY SUMMARY**
-* **Languages:** Java, JavaScript, HTML, CSS, Lua, PHP, C#
-* **Development Tools, Methodologies & Environments:** Design Patterns 
-* **Software:** Git, Node, npm, Express.js, Unity, Adobe Photoshop
+* **Languages:** Java, JavaScript, HTML, CSS, PHP, Lua, Python, C#, 
+* **Software:** Git, node, npm, Express.js, Android Studio, Unity, Adobe Photoshop
 
-######**PROJECT EXPERIENCE**
+######**PERSONAL PROJECTS**
 * **HTML5 Game Engine:** Open Source HTML5 game engine with fast development as a goal. Using HTML5 Canvas, WebGL and ES6 | <a href="http://github.com/davidllanos22/GameEngine" target="_blank">github.com/davidllanos22/GameEngine</a>  
 * **Personal website:** 
 
 ######**OTHER ACTIVITIES**
 * **Game Jams:** Ludum Dare(8 times), Global Game Jam (3 times)
-* **Volunteering:** Germà Gran, Install Party

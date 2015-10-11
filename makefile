@@ -1,7 +1,7 @@
 SOURCE = CV.md
 AUTHOR = "David Llanos López"
 TITLE  = $(AUTHOR)
-SUBTITLE  = "Junior Software Developer"
+SUBTITLE  = "Software Developer"
 
 all:
 	pandoc -s $(SOURCE) --template templates/template.html5 -V title=$(TITLE) -V author=$(AUTHOR) -V subtitle=$(SUBTITLE) -o index.html 

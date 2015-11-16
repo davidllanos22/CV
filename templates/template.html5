@@ -25,7 +25,7 @@
           $for(include-before)$
             $include-before$
           $endfor$
-          <h4 class="text-center">$title$</h4>
+          <h4 class="text-center">$author$</h4>
           <h5 class="text-center">$subtitle$</h5>
           <hr/>
           $body$

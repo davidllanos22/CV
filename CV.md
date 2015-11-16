@@ -1,4 +1,3 @@
-######**PERSONAL DETAILS**
 * <i class="fa fa-envelope-o fa-lg"></i>davidllanos22@gmail.com
 * <i class="fa fa-phone fa-lg"></i>(+34) 616727518
 * <i class="fa fa-laptop fa-lg"></i><a href="http://davidllanos22.github.io" target="_blank">davidllanos22.github.io</a>  
@@ -6,7 +5,7 @@
 * <i class="fa fa-github fa-lg"></i><a href="https://github.com/davidllanos22" target="_blank">github.com/davidllanos22</a>
 
 ######**EDUCATION**
-* **Computer Science** | 2014 - Present | *Universitat de Barcelona*  
+* **Computer Science** | 2014 - Present | *Universitat de Barcelona* |  *GPA: **2.37** *
 * **Computer Network Management** | 2012 - 2014 | *IES Guineueta*  
 * **High School degree of Arts** | 2009 - 2011 | *IES Vall d'Hebron*  
 
@@ -30,7 +29,4 @@ My responsibilities included creating both an ***Android*** and ***iOS*** app wi
 
 ######**PERSONAL PROJECTS**
 * **HTML5 Game Engine:** Open Source HTML5 game engine with fast development as a goal. Using HTML5 Canvas, WebGL and ES6 | <a href="http://github.com/davidllanos22/GameEngine" target="_blank">github.com/davidllanos22/GameEngine</a>  
-* **Personal website:** 
-
-######**OTHER ACTIVITIES**
 * **Game Jams:** I participated in **Ludum Dare**(8 times) and also in **Global Game Jam**(3 times).

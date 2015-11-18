@@ -5,7 +5,7 @@
 * <i class="fa fa-github fa-lg"></i><a href="https://github.com/davidllanos22" target="_blank">github.com/davidllanos22</a>
 
 ######**EDUCATION**
-* **Computer Science** | 2014 - Present | *Universitat de Barcelona* |  *GPA: **2.37** *
+* **Computer Science** | 2014 - Present | *Universitat de Barcelona*
 * **Computer Network Management** | 2012 - 2014 | *IES Guineueta*  
 * **High School degree of Arts** | 2009 - 2011 | *IES Vall d'Hebron*  
 

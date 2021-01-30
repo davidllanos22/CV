@@ -22,6 +22,7 @@ p{
 }
 
 body{
+  padding-top: 25px;
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -36,7 +37,7 @@ body{
 
 .grid-container{
   display: grid;
-  grid-gap: 50px;
+  grid-gap: 25px;
 
   grid-template-areas:
   'header header'
@@ -60,24 +61,23 @@ footer{
   grid-area: footer;
 }
 
-ul{
+nav > ul{
   width: 100%;
   list-style: none;
-  text-align: center;
+  //text-align: center;
 }
 
-li{
+nav > ul > li{
   display: inline;
   float: left;
-  width: 33%;
+  width: 25%;
   display: block;
 }
 
 li > img{
   float: left;
-  width: 32px;
-  height: 32px;
-  image-rendering: pixelated;
+  width: 24px;
+  height: 24px;
 }
 
 hr{
@@ -89,5 +89,18 @@ hr.bold{
   margin: 0 0 10px 0;
   border-style: solid;
   color: var(--color-black);
+}
+
+article > ul{
+  padding-left: 18px;
+}
+
+article > span{
+  height: 24px ;
+  line-height: 24px;
+}
+article > span > img{
+  width: 24px;
+  height: 24px;
 }
 

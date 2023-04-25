@@ -1,7 +1,7 @@
 {
   "name": "David Llanos López",
   "title": "Senior Front End Developer",
-  "about": "Senior front end developer with 8+ years of experience building webs and interactive user experiences.",
+  "about": "Senior front end developer with 8+ years of experience building websites and interactive user experiences.<br>Interested in <b>Clean Code</b>, <b>Test Driven Development</b>, <b>Web Components</b>, <b>Design Systems</b>, <b>Artificial Intelligence</b> and <b>Game Development</b>.",
   "contact": [
     {
       "type": "email",
@@ -44,6 +44,14 @@
       "value": 1
     },
     {
+      "name": "HTML",
+      "value": 1
+    },
+    {
+      "name": "CSS/SCSS",
+      "value": 0.7
+    },
+    {
       "name": "Jest",
       "value": 0.8
     },
@@ -54,28 +62,28 @@
     
     {
       "name": "React",
-      "value": 0.2
+      "value": 0.1
     },
     {
       "name": "Bootstrap",
-      "value": 0.2
+      "value": 0.5
     },
     
     {
       "name": "Web Components",
-      "value": 0.2
+      "value": 0.5
     },
     {
       "name": "HTML Canvas",
-      "value": 0.2
+      "value": 1
     },
     {
       "name": "Git",
       "value": 1
     },
     {
-      "name": "Agile/Scrum",
-      "value": 1
+      "name": "AWS",
+      "value": 0.3
     }
   ],
   "education": [
@@ -102,28 +110,28 @@
     {
       "title": "Front End Developer",
       "company": "DyCare",
-      "description": "<b>ReHub</b>",
+      "description": "<b>ReHub</b><br>The project consisted in the creation of a digital solution for home-based rehabilitation. My duties involved creating and mantaining an <b>Angular</b> project from scratch. <b>WebSockets</b>, <b>WebAssembly</b>, <b>Canvas</b>, <b>Web Components</b>, <b>Vue</b>, <b>AWS</b>, <b>Jest</b>, <b>Cypress</b>, <b>MediaPipe</b>",
       "start": "January 2018",
       "finish": "April 2023"
     },
     {
       "title": "Game Developer",
       "company": "Geomotion Games",
-      "description": "<b>City Nostra</b><br>My duties involved creating from scratch the Android version of the location-based game \"City Nostra\". Some of the tools I used were Parse as the back end server, Mapbox as the map renderer, Uservoice as user feedback manager and Crashlytics as crash reporting tool.<br><br><b>Beaconing - Context Aware Challenges Authoring Tool</b><br>The project consisted in creating a platform for teachers to create location-based games. My duties involved creating the front end, made with <b>Bootstrap</b> and <b>jQuery</b>. And the back end, made with <b>PHP</b>.",
+      "description": "<b>City Nostra</b><br>The project consisted in the creation of a location-based game with a mafia theme. My duties involved creating from scratch the <b>Android</b> of the game. Some of the tools I used were <b>Parse</b> as the back end server, <b>Mapbox</b> as the map renderer, <b>Uservoice</b> as user feedback manager and <b>Crashlytics</b> as crash reporting tool.<br><br><b>Beaconing - Context Aware Challenges Authoring Tool</b><br>The project consisted in creating a platform for teachers to create location-based games. My duties involved creating the front end, made with <b>Bootstrap</b> and <b>jQuery</b>. And the back end, made with <b>PHP</b>.",
       "start": "July 2015",
       "finish": "December 2017"
     },
     {
       "title": "Full Stack Developer - Freelance",
       "company": "Dreams Park",
-      "description": "<b>Dreams Park</b><br>My duties involved creating the front and back end as well as mantaining the website. The stack I used was composed of <b>Express.js</b> as back end framework, Parse as database and <b>Bootstrap</b> as front end framework.",
+      "description": "The project consisted in the creation of a website for a wood flooring company. My duties involved creating the front and back end as well as mantaining the website. The stack I used was composed of <b>Express.js</b> as back end framework, <b>Parse</b> as database and <b>Bootstrap</b> as front end framework.",
       "start": "February 2014",
       "finish": "April 2014"
     },
     {
       "title": "Android and iOS Developer - Internship",
       "company": "See the same SL",
-      "description": "My duties involved creating both an Android and iOS app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps.",
+      "description": "My duties involved creating both an <b>Android</b> and <b>iOS</b> app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps.",
       "start": "October 2012",
       "finish": "April 2013"
     }
@@ -131,11 +139,11 @@
   "projects": [
     {
       "title": "Final Degree Project",
-      "description": "My duties involved creating both an Android and iOS app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps."
+      "description": "The project consisted in the creation of a website where you can create facial avatars in pixel art style with realtime face tracking using <b>Vue</b> and <b>MediaPipe</b>: <a href=\"https://davidllanos22.github.io/tfg\">https://davidllanos22.github.io/tfg</a>"
     },
     {
       "title": "Game Jams",
-      "description": "My duties involved creating both an Android and iOS app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps."
+      "description": "I participated many times in game jams such as Ludum Dare and Global Game Jam."
     }
   ]
 }

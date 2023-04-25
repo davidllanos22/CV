@@ -1,99 +1,141 @@
 {
-  "name": "David Llanos",
-  "title": "Software Developer",
-  "about": "bla asdbkajdasdaskdj ashdkasdasd",
+  "name": "David Llanos López",
+  "title": "Senior Front End Developer",
+  "about": "Senior front end developer with 8+ years of experience building webs and interactive user experiences.",
   "contact": [
     {
-      "name": "location",
-      "value": "Barcelona, Spain",
-      "icon": "fa fa-location-dot"
-    },
-    {
-      "name": "phone",
-      "value": "(+34) 616727518",
-      "icon": "fa fa-phone"
-    },
-    {
-      "name": "email",
+      "type": "email",
       "value": "davidllanos22@gmail.com",
       "icon": "fa fa-envelope"
     },
     {
-      "name": "web",
+      "type": "phone",
+      "value": "(+34) 616727518",
+      "icon": "fa fa-phone"
+    },
+    {
+      "type": "location",
+      "value": "Barcelona, Spain",
+      "icon": "fa fa-location-dot"
+    },
+    {
+      "type": "link",
       "value": "http://davidllanos22.github.io",
       "icon": "fa fa-globe"
     },
     {
-      "name": "github",
-      "value": "http://davidllanos22.github.io",
+      "type": "link",
+      "value": "https://github.com/davidllanos22",
       "icon": "fa-brands fa-github"
     },
     {
-      "name": "linkedin",
-      "value": "http://davidllanos22.github.io",
+      "type": "link",
+      "value": "https://www.linkedin.com/in/davidllanos22",
       "icon": "fa-brands fa-linkedin"
     }
   ],
   "skills": [
     {
       "name": "Angular",
-      "value": 1,
-      "icon": "fa-brands fa-angular"
+      "value": 1
+    },
+    {
+      "name": "Typescript",
+      "value": 1
+    },
+    {
+      "name": "Jest",
+      "value": 0.8
     },
     {
       "name": "Vue",
-      "value": 0.2,
-      "icon": "fa-brands fa-vuejs"
+      "value": 0.4
+    },
+    
+    {
+      "name": "React",
+      "value": 0.2
+    },
+    {
+      "name": "Bootstrap",
+      "value": 0.2
+    },
+    
+    {
+      "name": "Web Components",
+      "value": 0.2
+    },
+    {
+      "name": "HTML Canvas",
+      "value": 0.2
+    },
+    {
+      "name": "Git",
+      "value": 1
+    },
+    {
+      "name": "Agile/Scrum",
+      "value": 1
     }
   ],
   "education": [
     {
       "name": "Computer Science",
-      "description": "UOC (Universitat Oberta de Catalunya)",
+      "institution": "UOC (Universitat Oberta de Catalunya)",
       "start": "2014",
       "finish": "2022"
     },
     {
       "name": "Computer Network Management",
-      "description": "IES Guineueta",
+      "institution": "IES Guineueta",
       "start": "2012",
       "finish": "2014"
     },
     {
       "name": "High School degree of Arts",
-      "description": "IES Vall d'Hebron",
+      "institution": "IES Vall d'Hebron",
       "start": "2009",
       "finish": "2011"
     }
   ],
   "experience": [
     {
-      "name": "Web Developer",
+      "title": "Front End Developer",
       "company": "DyCare",
-      "description": "Cosas",
+      "description": "<b>ReHub</b>",
       "start": "January 2018",
       "finish": "April 2023"
     },
     {
-      "name": "Game Developer",
+      "title": "Game Developer",
       "company": "Geomotion Games",
-      "description": "City Nostra www.citynostra.com My duties involved creating from scratch the Android version of the location-based game “City Nostra”. Some of the tools I used were Parse as the back end server, Mapbox as the map renderer, Uservoice as user feedback manager and Crashlytics as crash reporting tool. Beaconing - Context Aware Challenges Authoring Tool beaconing.eu The project consisted in creating a platform for teachers to create location-based games. My duties involved creating the front end, made with Bootstrap and jQuery. And the back end, made with PHP.",
+      "description": "<b>City Nostra</b><br>My duties involved creating from scratch the Android version of the location-based game \"City Nostra\". Some of the tools I used were Parse as the back end server, Mapbox as the map renderer, Uservoice as user feedback manager and Crashlytics as crash reporting tool.<br><br><b>Beaconing - Context Aware Challenges Authoring Tool</b><br>The project consisted in creating a platform for teachers to create location-based games. My duties involved creating the front end, made with <b>Bootstrap</b> and <b>jQuery</b>. And the back end, made with <b>PHP</b>.",
       "start": "July 2015",
       "finish": "December 2017"
     },
     {
-      "name": "Web Developer - Freelance",
+      "title": "Full Stack Developer - Freelance",
       "company": "Dreams Park",
-      "description": "My duties involved creating the front and back end as well as mantaining the website. The stack I used was composed of Express.js as back end framework, Parse as database and Bootstrap as front end framework.",
+      "description": "<b>Dreams Park</b><br>My duties involved creating the front and back end as well as mantaining the website. The stack I used was composed of <b>Express.js</b> as back end framework, Parse as database and <b>Bootstrap</b> as front end framework.",
       "start": "February 2014",
       "finish": "April 2014"
     },
     {
-      "name": "Android and iOS Developer - Internship",
-      "company": "SEE THE SAME SL",
+      "title": "Android and iOS Developer - Internship",
+      "company": "See the same SL",
       "description": "My duties involved creating both an Android and iOS app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps.",
       "start": "October 2012",
       "finish": "April 2013"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Final Degree Project",
+      "description": "My duties involved creating both an Android and iOS app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps."
+    },
+    {
+      "title": "Game Jams",
+      "description": "My duties involved creating both an Android and iOS app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps."
     }
   ]
 }

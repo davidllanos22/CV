@@ -1,7 +1,7 @@
 {
   "name": "David Llanos López",
   "title": "Senior Front End Developer",
-  "about": "Senior front end developer with 8+ years of experience building websites and interactive user experiences.<br>Interested in <b>Clean Code</b>, <b>Test Driven Development</b>, <b>Web Components</b>, <b>Design Systems</b>, <b>Artificial Intelligence</b> and <b>Game Development</b>.",
+  "summary": "Senior front end developer with 8+ years of experience building websites and interactive user experiences for startups.<br>Interested in <b>Clean Code</b>, <b>Test Driven Development</b>, <b>Web Components</b>, <b>Design Systems</b>, <b>Artificial Intelligence</b> and <b>Game Development</b>.",
   "contact": [
     {
       "type": "email",
@@ -21,16 +21,19 @@
     {
       "type": "link",
       "value": "http://davidllanos22.github.io",
+      "text": "davidllanos22.github.io",
       "icon": "fa fa-globe"
     },
     {
       "type": "link",
       "value": "https://github.com/davidllanos22",
+      "text": "github.com/davidllanos22",
       "icon": "fa-brands fa-github"
     },
     {
       "type": "link",
       "value": "https://www.linkedin.com/in/davidllanos22",
+      "text": "linkedin.com/in/davidllanos22",
       "icon": "fa-brands fa-linkedin"
     }
   ],
@@ -84,6 +87,10 @@
     {
       "name": "AWS",
       "value": 0.3
+    },
+    {
+      "name": "Agile",
+      "value": 0.3
     }
   ],
   "education": [
@@ -110,14 +117,14 @@
     {
       "title": "Front End Developer",
       "company": "DyCare",
-      "description": "<b>ReHub</b><br>The project consisted in the creation of a digital solution for home-based rehabilitation. My duties involved creating and mantaining an <b>Angular</b> project from scratch. <b>WebSockets</b>, <b>WebAssembly</b>, <b>Canvas</b>, <b>Web Components</b>, <b>Vue</b>, <b>AWS</b>, <b>Jest</b>, <b>Cypress</b>, <b>MediaPipe</b>",
+      "description": "<b>ReHub</b><br><a class=\"fst-italic\" href=\"https://www.dycare.com\" target=\"_blank\">dycare.com</a><br>The project consisted in the creation of a digital solution for home-based rehabilitation. My duties involved creating the project from scratch and mantaining it. The code was a <b>Monorepo</b> and consisted of 2 <b>Angular</b> projects and one <b>Vue</b> project, I implemented <b>Web Components</b> to have reusable components on all projects and started a <b>Design System</b>. I used <b>MoveNet</b> to track the patients full body in realtime and analyze the data with <b>WebAssembly</b>. The body landmarks and the result was rendered using <b>Canvas</b>. I acquired some experience using <b>AWS</b>, such as S3, DynamoDB, CodeCommit and CodeDeploy. I made unit testing with <b>Jest</b>, and some with <b>Cypress</b> <b>Storybook</b>, I also trained and guided Junior Developers to help me with development.",
       "start": "January 2018",
       "finish": "April 2023"
     },
     {
       "title": "Game Developer",
       "company": "Geomotion Games",
-      "description": "<b>City Nostra</b><br>The project consisted in the creation of a location-based game with a mafia theme. My duties involved creating from scratch the <b>Android</b> of the game. Some of the tools I used were <b>Parse</b> as the back end server, <b>Mapbox</b> as the map renderer, <b>Uservoice</b> as user feedback manager and <b>Crashlytics</b> as crash reporting tool.<br><br><b>Beaconing - Context Aware Challenges Authoring Tool</b><br>The project consisted in creating a platform for teachers to create location-based games. My duties involved creating the front end, made with <b>Bootstrap</b> and <b>jQuery</b>. And the back end, made with <b>PHP</b>.",
+      "description": "<b>City Nostra</b><br>The project consisted in the creation of a location-based game with a mafia theme. My duties involved creating from scratch the <b>Android</b> version of the game. <br><br><b>Beaconing - Context Aware Challenges Authoring Tool</b><br>The project consisted in creating a platform for teachers to create location-based games. My duties involved creating the front end, made with <b>Bootstrap</b> and <b>jQuery</b>. And the back end, made with <b>PHP</b>.",
       "start": "July 2015",
       "finish": "December 2017"
     },
@@ -131,7 +138,7 @@
     {
       "title": "Android and iOS Developer - Internship",
       "company": "See the same SL",
-      "description": "My duties involved creating both an <b>Android</b> and <b>iOS</b> app from scratch with user management and push notifications. I also made part of the API in the back end to be consumed by the apps.",
+      "description": "My duties involved creating both an <b>Android</b> and <b>iOS</b> app from scratch with user management and push notifications.",
       "start": "October 2012",
       "finish": "April 2013"
     }
@@ -139,7 +146,7 @@
   "projects": [
     {
       "title": "Final Degree Project",
-      "description": "The project consisted in the creation of a website where you can create facial avatars in pixel art style with realtime face tracking using <b>Vue</b> and <b>MediaPipe</b>: <a href=\"https://davidllanos22.github.io/tfg\">https://davidllanos22.github.io/tfg</a>"
+      "description": "<a class=\"fst-italic\" href=\"https://davidllanos22.github.io/tfg\" target=\"_blank\">davidllanos22.github.io/tfg</a><br>The project consisted in the creation of a website where you can create facial avatars in pixel art style with realtime face tracking. Made with <b>Vue</b> and <b>MediaPipe</b>."
     },
     {
       "title": "Game Jams",

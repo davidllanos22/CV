@@ -17,8 +17,8 @@
       width: 40%;
     }
 
-    .w-60{
-      width: 60%;
+    .w-70{
+      width: 70%;
     }
 
     a{
@@ -72,54 +72,61 @@
             <i :class="[`${contact.icon}`]"></i>
             <span v-if="contact.type == 'location'">{{contact.value}}</span>
             <span v-if="contact.type == 'phone'">{{contact.value}}</span>
-            <a v-if="contact.type == 'email'" :href="'mailto:' + contact.value">{{contact.value}}</a>
-            <a v-if="contact.type == 'link'" :href="contact.value">{{contact.value}}</a>
+            <a v-if="contact.type == 'email'" :href="'mailto:' + contact.value" target="_blank">{{contact.value}}</a>
+            <a v-if="contact.type == 'link'" :href="contact.value" target="_blank">{{contact.text}}</a>
           </div>
         </div>
       </div>
       
-
-      <div class="w-100 d-flex flex-column p-3">
-        <h4>EDUCATION</h4>
-        <hr>
-        <div class="w-100 d-flex flex-column" v-for="education in data.education">
-          <span class="fw-bold">{{education.name}}</span>
-          <span class="fst-italic">{{education.start}} - {{education.finish}}</span>
-          <span class="text-primary fw-bold">{{education.institution}}</span>
-        </div>
-      </div>
-
-      <div class="w-100 d-flex flex-column p-3">
-        <h4>SKILLS</h4>
-        <hr>
-        <div class="w-100 d-flex flex-column align-items-center" v-for="skill in data.skills">
-          <div class="w-100 d-flex flex-row align-items-center gap-1">
-            <span class="fw-bold">{{skill.name}}</span>
+      <div class="d-flex flex-column gap-3 p-3">
+        <div class="w-100 d-flex flex-column">
+          <h4>EDUCATION</h4>
+          <hr>
+          <div class="w-100 d-flex flex-column" v-for="education in data.education">
+            <span class="fw-bold">{{education.name}}</span>
+            <span class="fst-italic">{{education.start}} - {{education.finish}}</span>
+            <span class="text-primary fw-bold">{{education.institution}}</span>
           </div>
-          <div class="progress w-100">
-            <div class="progress-bar" role="progressbar" :style="{ width: (skill.value * 100) + '%' }"></div>
-          </div>
-          <!-- <progress class="w-100" :value="skill.value" max="1"></progress> -->
         </div>
-      </div>
 
-      <div class="w-100 d-flex flex-column p-3">
-        <h4>PERSONAL PROJECTS</h4>
-        <hr>
-        <div class="w-100 d-flex flex-column mb-3" v-for="project in data.projects">
-          <span class="fw-bold">{{project.title}}</span>
-          <div v-html="project.description"></div>
+        <div class="w-100 d-flex flex-column">
+          <h4>SKILLS</h4>
+          <hr>
+          <table>
+            <tr v-for="skill in data.skills">
+              <td style="width: 120px; text-align: left;">
+                <span class="fw-bold">{{skill.name}}</span>
+              </td>
+              <td>
+                <div class="progress w-100">
+                  <div class="progress-bar" role="progressbar" :style="{ width: (skill.value * 100) + '%' }"></div>
+                </div>
+              </td>
+            </tr>
+          </table>
+         
+        </div>
+
+        <div class="w-100 d-flex flex-column">
+          <h4>PERSONAL PROJECTS</h4>
+          <hr>
+          <div class="w-100 d-flex flex-column mb-3" v-for="project in data.projects">
+            <span class="fw-bold">{{project.title}}</span>
+            <div v-html="project.description"></div>
+          </div>
         </div>
       </div>
+     
     </div>
 
-    <div class="d-flex flex-column w-60 mh-100 p-3">
+    <div class="d-flex flex-column gap-3 w-70 mh-100 p-3">
       
-      <div class="w-100 d-flex flex-column mb-3">
-        <h4>ABOUT</h4>
+      <div class="w-100 d-flex flex-column">
+        <h4>SUMMARY</h4>
         <hr>
-        <div v-html="data.about"></div>
+        <div v-html="data.summary"></div>
       </div>
+
       <div class="w-100 d-flex flex-column">
         <h4>EXPERIENCE</h4>
         <hr>

@@ -1,7 +1,7 @@
 {
   "name": "David Llanos López",
-  "title": "Senior Front End Developer",
-  "summary": "Senior front end developer with 8+ years of experience building websites and interactive user experiences for startups.<br>Interested in <b>Clean Code</b>, <b>Test Driven Development</b>, <b>Web Components</b>, <b>Design Systems</b>, <b>Artificial Intelligence</b> and <b>Game Development</b>.",
+  "title": "Senior Front-End Developer",
+  "summary": "Senior front-end developer with 8+ years of experience building websites and interactive user experiences for startups.<br>Interested in <b>Clean Code</b>, <b>Test Driven Development</b>, <b>Web Components</b>, <b>Design Systems</b>, <b>Artificial Intelligence</b> and <b>Game Development</b>.",
   "contact": [
     {
       "type": "email",
@@ -115,9 +115,9 @@
   ],
   "experience": [
     {
-      "title": "Front End Developer",
+      "title": "Front-End Developer",
       "company": "DyCare",
-      "description": "<b>ReHub</b><br><a class=\"fst-italic\" href=\"https://www.dycare.com\" target=\"_blank\">dycare.com</a><br>The project consisted in the creation of a digital solution for home-based rehabilitation. My duties involved creating the project from scratch and mantaining it. The code was a <b>Monorepo</b> and consisted of 2 <b>Angular</b> projects and one <b>Vue</b> project, I implemented <b>Web Components</b> to have reusable components on all projects and started a <b>Design System</b>. I used <b>MoveNet</b> to track the patients full body in realtime and analyze the data with <b>WebAssembly</b>. The body landmarks and the result was rendered using <b>Canvas</b>. I acquired some experience using <b>AWS</b>, such as S3, DynamoDB, CodeCommit and CodeDeploy. I made unit testing with <b>Jest</b>, and some with <b>Cypress</b> <b>Storybook</b>, I also trained and guided Junior Developers to help me with development.",
+      "description": "<b>ReHub</b><br><a class=\"fst-italic\" href=\"https://www.dycare.com\" target=\"_blank\">dycare.com</a><br>The project consisted in the creation of a digital solution for home-based rehabilitation.<br>- Created a <b>Monorepo</b> project from scratch using <b>Angular</b> and <b>Vue</b>.<br>- Created <b>Web Components</b> to reuse components beetween projects.<br>- Gathered and analyzed project requirements, ensured ongoing project maintenance, and identified and resolved issues.<br>- Collaborated with other engineers, designers, and QA to ensure the project was delivered on time, within budget, and to thehighest possible standards.<br>- Trained and guided junior developers. This involved leading code reviews, pair programming, and providing on-the-job training<br>- Tracked the patients full body movement in realtime through a webcam and analyze the data to improve their rehabilitationprocess. Used the latest technologies such as <b>MoveNet</b>, <b>WebAssembly</b> and <b>WebSocket</b>.<br>- Ensured code quality through unit testing with <b>Jest</b>.<br>- Generated code documentation and project documentation.<br>",
       "start": "January 2018",
       "finish": "April 2023"
     },
@@ -131,7 +131,7 @@
     {
       "title": "Full Stack Developer - Freelance",
       "company": "Dreams Park",
-      "description": "The project consisted in the creation of a website for a wood flooring company. My duties involved creating the front and back end as well as mantaining the website. The stack I used was composed of <b>Express.js</b> as back end framework, <b>Parse</b> as database and <b>Bootstrap</b> as front end framework.",
+      "description": "<a class=\"fst-italic\" href=\"http://dreamspark.es\" target=\"_blank\">dreamspark.es</a><br>The project consisted in the creation of a website for a wood flooring company. My duties involved creating the front and back end as well as mantaining the website. The stack I used was composed of <b>Express.js</b> as back end framework, <b>Parse</b> as database and <b>Bootstrap</b> as front-end framework.",
       "start": "February 2014",
       "finish": "April 2014"
     },

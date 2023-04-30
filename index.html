@@ -47,10 +47,14 @@
     h4{
       margin-bottom: 2px;
     }
+
+    [v-cloak] {
+      display: none;
+    }
   </style>
 </head>
 <body>
-<div id="app" class="w-100 mh-100 h-100">
+<div id="app" class="w-100 mh-100 h-100" v-cloak>
   <div class="w-100 mh-100 d-flex flex-row" style="max-width: 900px; margin: 0 auto" v-if="data">
     <div class="d-flex flex-column mh-100 w-40" style="background-color: #eee">
 

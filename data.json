@@ -1,0 +1,154 @@
+{
+  "name": "David Llanos López",
+  "title": "Senior Front-End Developer",
+  "summary": "Senior front-end developer with 8+ years of experience building real-world web applications in production environments for startups.<br><br>Interested in <b>Angular</b>, <b>Test Driven Development</b>, <b>Web Components</b>, <b>Design Systems</b>, <b>Artificial Intelligence</b>, <b>HTML Canvas</b> and <b>Game Development</b>.",
+  "contact": [
+    {
+      "type": "email",
+      "value": "davidllanos22@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "type": "phone",
+      "value": "(+34) 616727518",
+      "icon": "fa fa-phone"
+    },
+    {
+      "type": "location",
+      "value": "Barcelona, Spain",
+      "icon": "fa fa-location-dot"
+    },
+    {
+      "type": "link",
+      "value": "http://davidllanos22.github.io",
+      "icon": "fa fa-globe"
+    },
+    {
+      "type": "link",
+      "value": "https://github.com/davidllanos22",
+      "icon": "fa-brands fa-github"
+    },
+    {
+      "type": "link",
+      "value": "https://www.linkedin.com/in/davidllanos22",
+      "icon": "fa-brands fa-linkedin"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Angular",
+      "value": 1
+    },
+    {
+      "name": "Typescript",
+      "value": 1
+    },
+    {
+      "name": "HTML",
+      "value": 1
+    },
+    {
+      "name": "Git",
+      "value": 1
+    },
+    {
+      "name": "HTML Canvas",
+      "value": 1
+    },
+    {
+      "name": "Jest",
+      "value": 0.8
+    },
+    {
+      "name": "Bootstrap",
+      "value": 0.7
+    },
+    {
+      "name": "Scrum",
+      "value": 0.7
+    },
+    {
+      "name": "CSS/SCSS",
+      "value": 0.6
+    },
+    {
+      "name": "Web Components",
+      "value": 0.6
+    },
+    {
+      "name": "Vue",
+      "value": 0.3
+    },
+    {
+      "name": "AWS",
+      "value": 0.3
+    },
+    {
+      "name": "React",
+      "value": 0.3
+    }
+  ],
+  "education": [
+    {
+      "name": "Computer Science",
+      "institution": "UOC (Universitat Oberta de Catalunya)",
+      "start": "2014",
+      "finish": "2022"
+    },
+    {
+      "name": "Computer Network Management",
+      "institution": "IES Guineueta",
+      "start": "2012",
+      "finish": "2014"
+    },
+    {
+      "name": "High School degree of Arts",
+      "institution": "IES Vall d'Hebron",
+      "start": "2009",
+      "finish": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Front-End Developer",
+      "company": "DyCare",
+      "website": "https://www.dycare.com",
+      "description": "<ul><li>Created a digital solution for home-based rehabilitation using a <b>Monorepo</b> architecture with 2 <b>Angular</b> projects and 1 <b>Vue</b> project, reusing <b>Typescript</b> code as needed.</li><li>Created <b>Web Components</b> to reuse components between projects.</li><li>Ensured code quality through unit testing with <b>Jest</b>.</li><li>Generated code documentation and project documentation using <b>Typedoc</b>.</li><li>Tracked the patients' full body movement in real time through a webcam using AI and analyzed the data to improve their rehabilitation process. Used the latest web technologies such as <b>MoveNet</b>, <b>WebAssembly</b> and <b>WebSocket</b>.</li><li>Collaborated in a scrum environment with other engineers, designers, and QA to ensure the project was delivered on time, within budget, and to the highest possible standards.</li><li>Gathered and analyzed project requirements, ensured ongoing project maintenance, and identified and resolved issues.</li><li>Trained and guided junior developers. This involved leading code reviews, pair programming, and providing on-the-job training.</li></ul>",
+      "start": "January 2018",
+      "finish": "April 2023"
+    },
+    {
+      "title": "Game Developer",
+      "company": "Geomotion Games",
+      "description": "<ul><li>Created and maintained the <b>Android</b> version of City Nostra, a location-based game with a mafia theme.</li><li>Created a web platform for teachers to create location-based games. The front end was made with <b>Bootstrap</b> and <b>jQuery</b>, and the back end with <b>PHP</b>.</li></ul>",
+      "start": "July 2015",
+      "finish": "December 2017"
+    },
+    {
+      "title": "Full Stack Developer - Freelance",
+      "company": "Dreams Park",
+      "website": "http://dreamspark.es",
+      "description": "<ul><li>Created and maintained a website for a wood flooring company. The front end was made with <b>Bootstrap</b>, and the back end with <b>Express.js</b> and <b>Parse</b>.</li></ul>",
+      "start": "February 2014",
+      "finish": "April 2014"
+    },
+    {
+      "title": "Android and iOS Developer - Internship",
+      "company": "See the same SL",
+      "description": "<ul><li>Created an <b>Android</b> and <b>iOS</b> app with with user management and push notifications to receive alerts from an external source.</li></ul>",
+      "start": "October 2012",
+      "finish": "April 2013"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Final Degree Project",
+      "website": "https://davidllanos22.github.io/tfg",
+      "description": "The project consisted in the creation of a website where you can create facial avatars in pixel art style with realtime face tracking. Made with <b>Vue</b> and <b>MediaPipe</b>."
+    },
+    {
+      "title": "Game Jams",
+      "description": "I participated many times in game jams such as Ludum Dare and Global Game Jam."
+    }
+  ]
+}
